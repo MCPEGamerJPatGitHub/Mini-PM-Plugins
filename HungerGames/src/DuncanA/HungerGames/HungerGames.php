@@ -1,8 +1,9 @@
 <?php
 
-namespace 'DuncanA/HungerGames';
+namespace 'MCPEGamerJP/HungerGames';
 
 use pocketmine\plugin\PluginBase;
+use pocketmine\player\playerchat;
 
 
 class InfComs extends PluginBase{
